@@ -1,0 +1,11 @@
+.mark {
+    fill: #137B80;
+}
+
+.tick line {
+    stroke: #C0C0BB;
+}
+
+.tick text {
+    fill: #635F5D;
+}
